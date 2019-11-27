@@ -35,6 +35,9 @@ font-size: 2em;
 
 h2 {
 font-size: 1.5em;
+background-color: #ccc;
+margin: 20px;
+padding: 40px;
 }
 
 a {
@@ -53,3 +56,10 @@ line-height: 1.5;
 text-align: center;
 }
 
+h2 {
+border-style: dashed;
+border-width: 3px;
+border-left-width: 10px;
+border-right-width: 10px;
+border-color: red;
+}
